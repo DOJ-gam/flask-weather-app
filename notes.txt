@@ -1,0 +1,12 @@
+pip3 install flask requests configparser(enables us to read our config.ini in our python file)
+
+go to open weather map api website
+    -click api and follow instructions
+
+create a config.ini
+    -put our api key in it.
+
+
+Add how you want to display weather result by adding in url:
+    -&units=imperial = faranhig
+    -&units=metric = units=celcious
