@@ -7,4 +7,4 @@ Here are screenshoots of the app
 <img src="https://github.com/DOJ-gam/flask-weather-app/blob/main/screenshots/w1.png" alt="DOJ's Weather App, Image 1">
 
 
-<img src="https://github.com/DOJ-gam/flask-weather-app/blob/main/screenshots/wwather.png" alt="DOJ's Weather App, Image 2">
+<img src="https://github.com/DOJ-gam/flask-weather-app/blob/main/screenshots/weather.png" alt="DOJ's Weather App, Image 2">
